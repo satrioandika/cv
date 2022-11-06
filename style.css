@@ -26,7 +26,7 @@ body{
 }
 .container .left-side{
     position: relative;
-    background-color: rgb(105, 105, 105);
+    background-color:#135589;
     padding: 40px;
 }
 h2{
@@ -134,15 +134,16 @@ span{
 }
 .container .right-side{
     position: relative;
-    background-image: linear-gradient(lightblue,white,lightskyblue);
+    background-color: #2a93d5;
     padding: 40px;
 }
 .about h2{
     color: black;
     text-align: left;
     text-transform: uppercase;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     letter-spacing: 1px;
+    padding-bottom: 5px;
     
 }
 .about{
@@ -167,7 +168,7 @@ p{
     padding: 2rem;
     display: flex;
     flex-direction: column;
-    background-color: rgb(6, 82, 129);
+    background-color: #133589;
     border-radius: 50px;
   }
 .heading {
